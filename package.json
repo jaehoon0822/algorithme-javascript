@@ -1,0 +1,13 @@
+{
+  "name": "algorithme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/github:jaehoon0822/algoritme-javascript",
+  "author": "jhoon <jaehoon0822.gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.3.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
